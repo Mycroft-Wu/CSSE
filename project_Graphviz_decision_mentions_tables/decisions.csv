@@ -1,0 +1,325 @@
+"id","type","body","attachment","author","created_at","updated_at","system","noteable_id","noteable_type","project_id","resolvable","confidential","internal","noteable_iid","commands_changes"
+605917758,NULL,"mentioned in commit 22a45d44435eddf940c3d2a8dd54a9311b5b1d23",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-06-19 00:00:09.779","2021-06-19 00:00:09.782",True,74745135,"Issue",4207231,False,False,False,1880,NULL
+559950738,NULL,"mentioned in commit 33555af0eda62e9d68ec3a84ab990fb1dd2d9a3e",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-04-25 00:06:54.104","2021-04-25 00:06:54.106",True,85783030,"Issue",4207231,False,False,False,2054,NULL
+548862241,NULL,"I think this sounds reasonable. Would such a change be backwards compatible?",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2021-04-10 00:08:34.026","2021-04-10 00:05:38.699",False,6913085,"Issue",4207231,False,False,False,634,NULL
+848659596,"DiscussionNote","(2) NOTUSED used nowhere and removed. 
+
+use (void) only because it is more elegant",NULL,"{""id"": 2393793, ""name"": ""Costa Shulyupin"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/makelinux"", ""username"": ""makelinux"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/2393793/avatar.png""}","2022-02-19 00:09:20.768","2022-02-19 00:06:57.69",False,102718634,"Issue",4207231,False,False,False,2195,NULL
+799892427,NULL,"assigned to @magjac",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2022-01-03 00:06:11.271","2022-01-03 00:06:11.272",True,100027835,"Issue",4207231,False,False,False,2173,NULL
+582776457,NULL,"mentioned in commit 96c3b9c8b61149fa57c67c42ef3a43380f8b92bc",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-05-22 00:07:44.887","2021-05-22 00:07:44.889",True,86725670,"Issue",4207231,False,False,False,2067,NULL
+113904762,NULL,"When I build with ""--with-app"", I get a version error:
+
+Compiling for earlier than macOS 10.6 is no longer supported.",NULL,"{""id"": 1624860, ""name"": ""Julian Sinai"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/jsinai"", ""username"": ""jsinai"", ""avatar_url"": ""https://secure.gravatar.com/avatar/01e2bbf648c3562aa02693e29d4502ec?s=80&d=identicon""}","2018-11-01 00:07:49.428","2018-11-01 00:07:49.428",False,15493943,"Issue",4207231,False,False,False,1445,NULL
+41065823,"Note","*Created by: graphviz*
+
+I don’t know what we should do about this, but I’d like to note
+that according to the contents of the graphviz malloc.h, this
+aliasing seems to be intentional. Sorry.
+
+",NULL,"{""id"": 652402, ""name"": ""John Ellson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/ellson"", ""username"": ""ellson"", ""avatar_url"": ""https://secure.gravatar.com/avatar/1f75f93eaa46eef89989f909fe571255?s=80&d=identicon""}","2017-05-25 00:04:54","2017-05-25 00:04:54",False,6913648,"Issue",4207231,False,False,False,1242,NULL
+352535679,NULL,"There must be a portable way of doing this used by adults. I’m sure this
+made sense at the time, but it seems kind of crazy now.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2020-05-31 00:06:09.829","2020-05-31 00:06:09.829",False,35235851,"Issue",4207231,False,False,False,1723,NULL
+200316396,NULL,"Also FWIW the 64bit expat build in /windows/dependencies/libraries/x64/bin is bad -- its not really 64bit.  I re-built it by hand and replaced it in my instance",NULL,"{""id"": 3441536, ""name"": ""Billy"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/wasbridge"", ""username"": ""wasbridge"", ""avatar_url"": ""https://secure.gravatar.com/avatar/a30a32972bfe2991050d3815776c6a22?s=80&d=identicon""}","2019-08-05 00:09:29.428","2019-08-05 00:09:29.428",False,23514701,"Issue",4207231,False,False,False,1573,NULL
+675368909,NULL,"assigned to @smattr",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-09-12 00:07:45.825","2021-09-12 00:07:45.826",True,93521008,"Issue",4207231,False,False,False,2127,NULL
+41064848,"Note","*Created by: emden*
+
+See https://github.com/tkelman/graphviz/commit/6fc3f4c532c7722d718a422dbf306fcb59836e8d
+The change has been added the main source tree.
+",NULL,"{""id"": 652402, ""name"": ""John Ellson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/ellson"", ""username"": ""ellson"", ""avatar_url"": ""https://secure.gravatar.com/avatar/1f75f93eaa46eef89989f909fe571255?s=80&d=identicon""}","2015-03-23 00:04:25","2015-03-23 00:04:25",False,6912524,"Issue",4207231,False,False,False,45,NULL
+417447774,NULL,"mentioned in issue #1833",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-09-23 00:05:37.013","2020-09-23 00:05:37.015",True,71570340,"Issue",4207231,False,False,False,1832,NULL
+630227241,"DiscussionNote","Thanks for reporting. Did you pass any particular options to CMake? I'm wondering why the Graphviz macOS CMake CI job seems to find mkdefs fine and doesn't experience this problem.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-07-19 00:06:02.095","2021-07-20 00:01:32.191",False,90499532,"Issue",4207231,False,False,False,2101,NULL
+1178912777,"DiscussionNote","In relation to this, I am also unsure why `GVLayout` has defaulted copy constructors. AFAICT it is not safe to copy this class. The shared pointers will be duplicated (which is fine), but then you'll get duplicated calls to `gvFreeLayout` in the destructors (which is not fine).
+
+@magjac do you know why we enabled the copy constructors in this class?",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2022-11-20 00:02:27.038","2022-11-29 00:03:30.083",False,118206379,"Issue",4207231,False,False,False,2308,NULL
+322450165,NULL,"changed the description",NULL,"{""id"": 2728376, ""name"": ""le froz"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/le_froz"", ""username"": ""le_froz"", ""avatar_url"": ""https://secure.gravatar.com/avatar/37a41168fe7772e1511e3d40af3736a4?s=80&d=identicon""}","2020-04-13 00:02:28.748","2020-04-13 00:02:28.75",True,33197323,"Issue",4207231,False,False,False,1697,NULL
+400427796,NULL,"Looks reasonable to me. Microsoft's SSIZE_T is documented here:
+https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types#ssize_t",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-08-23 00:03:45.986","2020-08-23 00:03:45.986",False,70152436,"Issue",4207231,False,False,False,1804,NULL
+308639319,NULL,"Hello Google, this would be a great project for a Google summer intern or for someone at Google with appropriate technical skills to help. It would make sense to write a function for Graphviz to sanitize all the inputs. This could be done cleanly, table-driven.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2020-03-20 00:01:14.758","2020-03-20 00:01:14.758",False,32239736,"Issue",4207231,False,False,False,1682,NULL
+720465224,NULL,"mentioned in commit 075695b162f869acda3ee571958ea4091b7d464e",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-11-02 00:04:59.695","2021-11-02 00:04:59.697",True,96489186,"Issue",4207231,False,False,False,2153,NULL
+452209938,NULL,"SGTM",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-11-22 00:05:25.659","2020-11-22 00:05:25.659",False,74789836,"Issue",4207231,False,False,False,1881,NULL
+411732614,NULL,"mentioned in issue #1822",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-09-13 00:06:51.316","2020-09-13 00:06:51.317",True,16413895,"Issue",4207231,False,False,False,1464,NULL
+1234952847,NULL,"mentioned in merge request !3047",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2023-01-11 00:04:21.462","2023-01-11 00:04:21.463",True,121530807,"Issue",4207231,False,False,False,2338,NULL
+523669366,NULL,"Agree. edgepaint was a relatively later addition to graphviz and is a little obscure. Any unusual behavior in interpreting command line args was unintentional I'm sure.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2021-03-06 00:00:49.945","2021-03-06 00:00:49.945",False,80298614,"Issue",4207231,False,False,False,1971,NULL
+638486734,NULL,"changed title from **Windows CI jobs fails sporadically with ""(403) Forbidden"" during choco instal{-""-}** to **Windows CI jobs fails sporadically with ""(403) Forbidden"" during choco instal{+l+}**",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2021-07-29 00:04:18.338","2021-07-29 00:04:18.34",True,91081184,"Issue",4207231,False,False,False,2106,NULL
+419170380,NULL,"mentioned in commit magjac/graphviz@b59c53d45f04d04de083e6c9abf84823490e9f05",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-09-26 00:05:15.305","2020-09-26 00:05:15.307",True,71735867,"Issue",4207231,False,False,False,1835,NULL
+534248557,NULL,"I assume this was a non-issue or somehow resolved out-of-band. @ellson please re-open if this is still a problem.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-03-21 00:02:00.827","2021-03-21 00:02:00.827",False,72518986,"Issue",4207231,False,False,False,1850,NULL
+385506870,NULL,"Sounds good to me, but I know little about C standards.",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-07-26 00:09:57.627","2020-07-26 00:09:57.627",False,68978133,"Issue",4207231,False,False,False,1775,NULL
+92592449,NULL,"Hello @GadgetSteve,
+
+
+I have a similar problem.
+Any updates with this issue?
+
+Thanks",NULL,"{""id"": 2663778, ""name"": ""Sanjay Boddu"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/sanjay-boddu"", ""username"": ""sanjay-boddu"", ""avatar_url"": ""https://secure.gravatar.com/avatar/3ba9ea1cd0699623453ce4966ff0bdd3?s=80&d=identicon""}","2018-08-05 00:07:44.038","2018-08-05 00:07:44.038",False,6913428,"Issue",4207231,False,False,False,975,NULL
+420453474,NULL,"While this behavior seems to be deliberate given the wording of the error message (""ignored""), I think it would be much better to fail so the user understands they've done something wrong. The real reason for me wanting to have this functionality changed now is that I want to be able to add options testing to the tools test added in https://gitlab.com/graphviz/graphviz/-/merge_requests/1592 and checking that unsupported options are detected would be the first step in order to avoid that incorrect testing of other options silently fail.",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-09-29 00:06:47.243","2020-09-29 00:06:47.243",False,71867017,"Issue",4207231,False,False,False,1843,NULL
+389128308,NULL,"*sigh*
+
+Thank you for diagnosing this problem.
+
+I vote for choice 2, as it seems more general. I admit I don't understand all the implications. For one thing, I'm not sure of all the configuration files involved. (I just noticed mdfind block.h doesn't find vpsc.vcxproj, but grep does. Rebuild Spotlight index?)
+
+Again, we appreciate the help.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2020-07-31 00:04:01.075","2020-07-31 00:04:01.075",False,69305283,"Issue",4207231,False,False,False,1785,NULL
+366242603,NULL,"changed the description",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-06-23 00:05:44.883","2020-06-23 00:05:44.885",True,49942868,"Issue",4207231,False,False,False,1748,NULL
+360709386,NULL,"changed the description",NULL,"{""id"": 50390, ""name"": ""Sergio Melendez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/helpse"", ""username"": ""helpse"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/50390/avatar.png""}","2020-06-14 00:02:34.968","2020-06-14 00:02:34.97",True,43047982,"Issue",4207231,False,False,False,1740,NULL
+424062550,NULL,"marked this issue as related to #1138",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-10-06 00:08:40.365","2020-10-06 00:08:40.366",True,69856548,"Issue",4207231,False,False,False,1798,NULL
+619253635,NULL,"mentioned in commit magjac/graphviz@e99dba44c28d17d6971fc86edef5f2b1ec47fbe3",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2021-07-06 00:04:08.293","2021-07-06 00:04:08.295",True,89808997,"Issue",4207231,False,False,False,2096,NULL
+408787679,NULL,"marked this issue as related to #1422",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-09-08 00:04:57.066","2020-09-08 00:04:57.068",True,19611316,"Issue",4207231,False,False,False,1521,NULL
+393861394,NULL,"mentioned in issue #1792",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-08-11 00:07:03.242","2020-08-11 00:07:03.243",True,69679739,"Issue",4207231,False,False,False,1791,NULL
+807551195,NULL,"changed the description",NULL,"{""id"": 2309476, ""name"": ""Alexandre Duret-Lutz"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/adl1"", ""username"": ""adl1"", ""avatar_url"": ""https://secure.gravatar.com/avatar/5c84850c885cf24c7cf688467df9fb99?s=80&d=identicon""}","2022-01-11 00:08:44.305","2022-01-11 00:08:44.306",True,100454859,"Issue",4207231,False,False,False,2179,NULL
+228228682,NULL,"It appears the latest version of vmalloc is five years old and can be found at https://github.com/padsproj/pads/tree/master/ast-ast/src/lib/libast/vmalloc
+(not sure why it is not part of https://github.com/att/ast) and significant work
+has been done on sbrkmem() which gets raw memory, to make it run in various
+operating systems.  #ifdef cray is gone, ha, ha.  It appears it can invoke
+mmap() or even the standard malloc() as a last resort.  
+
+Porting this to graphviz would require making sure that it doesn't break 
+the current windows build on Appveyor with whatever set of defines and
+build-time configuration tests that we rely on.  
+
+Stephen North",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2019-10-09 00:08:12.551","2019-10-09 00:08:12.551",False,25727684,"Issue",4207231,False,False,False,1603,NULL
+383431101,NULL,"Wow that is surprisingly divergent :-)",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-07-22 00:09:43.192","2020-07-22 00:09:43.192",False,68832155,"Issue",4207231,False,False,False,1772,NULL
+505664524,NULL,"mentioned in commit 31fb08592eb062ca83f47b27ea1e14b18e52a2d8",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-02-10 00:04:06.782","2021-02-10 00:04:06.784",True,74398624,"Issue",4207231,False,False,False,1873,NULL
+175903806,NULL,"Hi. It’s possible. A while ago we tried to fix all memory leaks but they
+may have crept in. Can you identify the source code that creates this leak?
+What are the 2287 objects? It could be onetime code in some underlying
+library that stores its own internal data so not really a “leak” per se.
+what if you wrap your test in a loop, does it leak on every iteration? I
+tend to doubt that.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2019-05-29 00:03:20.242","2019-05-29 00:03:20.242",False,21414724,"Issue",4207231,False,False,False,1543,NULL
+399773482,NULL,"Thank you for figuring this out.
+
+I'm a little surprised ""we"" went for this style of programming in C in the
+first place.
+
+Stephen",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2020-08-21 00:02:38.135","2020-08-21 00:02:38.135",False,70092405,"Issue",4207231,False,False,False,1801,NULL
+419155227,NULL,"mentioned in issue #1837",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-09-26 00:05:39.268","2020-09-26 00:05:39.27",True,71736364,"Issue",4207231,False,False,False,1836,NULL
+563233975,NULL,"mentioned in commit 23e1c1c74e1c627660b5a18ddda66f105f6d4364",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-04-29 00:01:40.796","2021-04-29 00:01:40.798",True,85472266,"Issue",4207231,False,False,False,2050,NULL
+447865466,NULL,"mentioned in merge request !1672",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-11-16 00:04:47.852","2020-11-16 00:04:47.853",True,74411147,"Issue",4207231,False,False,False,1876,NULL
+242477075,NULL,"changed the description",NULL,"{""id"": 1635314, ""name"": ""Maxim Geraskin"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/maxim.ge"", ""username"": ""maxim.ge"", ""avatar_url"": ""https://secure.gravatar.com/avatar/e850434ac33a73409bca0834a1067320?s=80&d=identicon""}","2019-11-10 00:05:47.387","2019-11-10 00:05:47.391",True,26899379,"Issue",4207231,False,False,False,1624,NULL
+385611735,NULL,"All this code has been refactored in !1460, so this should no longer be an issue. Having said that, there is a torrent of other build warnings we still need to address.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-07-26 00:01:43.265","2020-07-26 00:01:43.265",False,6912661,"Issue",4207231,False,False,False,211,NULL
+699603411,NULL,"mentioned in commit 16d1316f01e84813355fabea77f49d9685458c5f",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-10-09 00:07:25.354","2021-10-09 00:07:25.356",True,93143360,"Issue",4207231,False,False,False,2118,NULL
+447831505,NULL,"mentioned in merge request !1663",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-11-16 00:00:47.038","2020-11-16 00:00:47.04",True,74410141,"Issue",4207231,False,False,False,1875,NULL
+545837080,NULL,"I have been on a long mission to remove SFIO entirely. It still has some way to go.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-04-06 00:03:06.951","2021-04-06 00:03:06.951",False,84679211,"Issue",4207231,False,False,False,1998,NULL
+609752910,NULL,"good news: Things have improved by Graphviz version: `dot - graphviz version 2.47.4~dev.20210622.1734 (20210622.1734)`.  It no longer core dumps.  
+bad news:  It now produces this error message:  `Error: in routesplines, cannot find NORMAL edge` and it produces an incorrect graph (`n5->n1` and the second `n1->n5` are missing):  
+![concentrateBug00](/uploads/787491be62144a6f9dbd8979b500aec4/concentrateBug00.png)",NULL,"{""id"": 1773206, ""name"": ""steve roush"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/steveroush"", ""username"": ""steveroush"", ""avatar_url"": ""https://secure.gravatar.com/avatar/8b150d04c47a4e4dcb32ad76a265ed61?s=80&d=identicon""}","2021-06-23 00:00:44.264","2021-06-23 00:00:44.264",False,89182228,"Issue",4207231,False,False,False,2087,NULL
+364894137,NULL,"changed the description",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-06-20 00:00:42.45","2020-06-20 00:00:42.452",True,6913113,"Issue",4207231,False,False,False,662,NULL
+752659928,NULL,"mentioned in merge request !2318",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2021-12-04 00:02:49.969","2021-12-04 00:02:49.971",True,98462110,"Issue",4207231,False,False,False,2160,NULL
+410542305,NULL,"mentioned in commit magjac/graphviz@259dc8d01dd13df0291c1373916fa4c716fd934e",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-09-10 00:04:54.276","2020-09-10 00:04:54.278",True,70896236,"Issue",4207231,False,False,False,1818,NULL
+415426896,NULL,"I agree it makes sense to remove this.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2020-09-19 00:03:40.726","2020-09-19 00:03:40.726",False,71397039,"Issue",4207231,False,False,False,1827,NULL
+360757115,NULL,"The possible issue with rewriting mkdefs.c in some other language is that the ""new"" language compiler/interpreter is now required by the build process.  
+Are any scripting languages already required?",NULL,"{""id"": 1773206, ""name"": ""steve roush"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/steveroush"", ""username"": ""steveroush"", ""avatar_url"": ""https://secure.gravatar.com/avatar/8b150d04c47a4e4dcb32ad76a265ed61?s=80&d=identicon""}","2020-06-14 00:00:28.898","2020-06-14 00:00:28.898",False,43052729,"Issue",4207231,False,False,False,1741,NULL
+1315918703,NULL,"Doing some more reading on the topic, it seems most libcs have decided `qsort_s` is a poor API and chosen not to implement it (e.g. https://www.openwall.com/lists/musl/2018/09/03/3). Every platform Graphviz supports seems to have a better equivalent, so I’ll look into replacement with this now.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2023-03-15 00:05:23.645","2023-03-15 00:05:23.645",False,125325720,"Issue",4207231,False,False,False,2362,NULL
+548863246,NULL,"Would we prefer to call this C++ *bindings* instead of a C++ *API*?",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2021-04-10 00:06:57.982","2021-04-10 00:06:57.982",False,84967548,"Issue",4207231,False,False,False,2001,NULL
+909437239,NULL,"Thanks for digging into this. It’s surprisingly complicated!
+
+<details><summary>...</summary>
+
+On Mon, 11 Apr 2022 at 03:53, Matthew Fernandez (@smattr) < gitlab@mg.gitlab.com> wrote:
+
+> Matthew Fernandez <https://gitlab.com/smattr> created an issue: #2229
+> <https://gitlab.com/graphviz/graphviz/-/issues/2229>
+>
+> Migrating this from !2575 (comment 907097811)
+> <https://gitlab.com/graphviz/graphviz/-/merge_requests/2575#note_907097811>
+> :
+>
+> I implemented itos believing lifetime of an rvalue
+> <https://en.cppreference.com/w/c/language/value_category> like this to be
+> the extent of the containing expression. However, your question made me
+> delve in to try to find chapter and verse in the C standard to back this
+> up. I realized I'm wrong and I was thinking of the equivalent scenario in
+> C++ (which would involve what they term a prvalue
+> <https://en.cppreference.com/w/cpp/language/value_category#prvalue>). In
+> C, the situation apparently differs between C99 and C11, for which there is
+> a helpful example https://en.cppreference.com/w/c/language/lifetime.
+>
+> The tl;dr of this is that use of itos like this is unfortunately undefined
+> behavior <https://en.cppreference.com/w/c/language/behavior> in C99, the
+> mode in which we compile Graphviz. We should probably look at removing
+> itos and its uses, which is disappointing as I introduced it aiming to
+> solve a number of sprintf problems.
+>
+> —
+> Reply to this email directly or view it on GitLab
+> <https://gitlab.com/graphviz/graphviz/-/issues/2229>.
+> You're receiving this email because of your account on gitlab.com. If
+> you'd like to receive fewer emails, you can unsubscribe
+> <https://gitlab.com/-/sent_notifications/REDACTED/unsubscribe>
+> from this thread or adjust your notification settings.
+>
+
+</details>",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2022-04-12 00:05:41.226","2022-04-12 00:05:41.226",False,106406178,"Issue",4207231,False,False,False,2229,NULL
+381666920,NULL,"Sgtm, they’re there in history if we need them",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-07-18 00:02:29.684","2020-07-18 00:02:29.684",False,64902493,"Issue",4207231,False,False,False,1768,NULL
+924976279,NULL,"mentioned in merge request !2634",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2022-04-26 00:09:01.401","2022-04-26 00:09:01.402",True,106936351,"Issue",4207231,False,False,False,2233,NULL
+351521405,NULL,"Could you attach the file? Generally graph layout is a pretty computationally intensive problem, I wouldn’t be surprised if a huge graph like that is having trouble laying out.",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-05-29 00:09:21.011","2020-05-29 00:09:21.011",False,35149997,"Issue",4207231,False,False,False,1718,NULL
+112918100,NULL,"I am seeing this build failure as well.
+
+```
+  CC       vmwalk.lo
+malloc.c:331:15: error: return type is an incomplete type
+ struct mstats mstats(void)
+               ^
+malloc.c: In function 'mstats':
+malloc.c:334:19: error: storage size of 'ms' isn't known
+     struct mstats ms;
+                   ^
+```
+
+gcc 5.5.0
+Graphviz 2.40.1",NULL,"{""id"": 27785, ""name"": ""Shaun Jackman"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/sjackman"", ""username"": ""sjackman"", ""avatar_url"": ""https://secure.gravatar.com/avatar/45216dabbd95ea1087fa68234932eb62?s=80&d=identicon""}","2018-10-29 00:09:32.546","2018-10-29 00:09:32.546",False,14084835,"Issue",4207231,False,False,False,1424,NULL
+552646011,NULL,"This doesn’t seem to be possible within graphviz.  I think we used to have this feature and it was removed because of potential security problems.  You may need to use external XML processing tools to accomplish this.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2021-04-15 00:03:43.6","2021-04-15 00:03:43.6",False,85227842,"Issue",4207231,False,False,False,2046,NULL
+377793584,NULL,"mentioned in merge request !1461",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-07-12 00:09:32.205","2020-07-12 00:09:32.207",True,45283288,"Issue",4207231,False,False,False,1742,NULL
+497994103,NULL,"Weird.  Not sure anyone has ever tried to use this - apparently not.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2021-01-31 00:07:05.816","2021-01-31 00:07:05.816",False,78153163,"Issue",4207231,False,False,False,1933,NULL
+41065948,"Note","*Created by: emden*
+
+I agree this is a bug, but shouldn't the quoting output be ` ""&quot;Label&quot;""` ?",NULL,"{""id"": 652402, ""name"": ""John Ellson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/ellson"", ""username"": ""ellson"", ""avatar_url"": ""https://secure.gravatar.com/avatar/1f75f93eaa46eef89989f909fe571255?s=80&d=identicon""}","2017-09-01 00:01:44","2017-09-01 00:01:44",False,6913674,"Issue",4207231,False,False,False,1276,NULL
+1048777361,NULL,"mentioned in commit ae8d4834546d11f98072dcc9310c3baca73ef849",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2022-08-03 00:07:20.239","2022-08-03 00:07:20.241",True,6912669,"Issue",4207231,False,False,False,219,NULL
+415509424,NULL,"mentioned in commit magjac/graphviz@b2b649bdc73f19a06564f9e32669fdc160a1a791",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-09-20 00:00:08.718","2020-09-20 00:00:08.721",True,71411974,"Issue",4207231,False,False,False,1829,NULL
+513893615,NULL,"mentioned in commit d645e32fa584ecd275f5e0271723ab9045c3974f",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-02-22 00:07:03.481","2021-02-22 00:07:03.483",True,79375850,"Issue",4207231,False,False,False,1950,NULL
+41064746,"Note","*Created by: emdenrg*
+
+This is puzzling, as it is perfectly legal to have _DLL undefined in the preprocessor directive. Also, I could not reproduce the result. Any chance you could post the output of running make -V on sfio?
+",NULL,"{""id"": 652402, ""name"": ""John Ellson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/ellson"", ""username"": ""ellson"", ""avatar_url"": ""https://secure.gravatar.com/avatar/1f75f93eaa46eef89989f909fe571255?s=80&d=identicon""}","2014-03-30 00:09:36","2014-03-30 00:09:36",False,6912511,"Issue",4207231,False,False,False,19,NULL
+687041445,NULL,"mentioned in commit f8f27e6cacc3036723d96d56358eaae2d7b00bf8",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-09-25 00:05:12.996","2021-09-25 00:05:12.998",True,94300239,"Issue",4207231,False,False,False,2131,NULL
+121058851,NULL,"This is a good suggestion.  To my knowledge, x86_64 is already being built in
+https://ci.appveyor.com/project/ellson/graphviz-pl238 <https://ci.appveyor.com/project/ellson/graphviz-pl238>
+Also I see an installer is generated, but it does not look big enough to actually
+contain the software (it is just 4 megs so something probably went wrong).
+Actually I’m surprised because I thought we just put all the build artifacts in
+a zip file and it would be up to the, er, consumer to figure out what to do with it.
+
+Someone would need to look into this further but it appears a lot of the work
+was already done.
+
+Stephen North",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2018-11-29 00:03:43.867","2018-11-29 00:03:43.867",False,16207883,"Issue",4207231,False,False,False,1457,NULL
+432347986,NULL,"This is sort of mysterious. Why is this not caught in CI by [test_tools()](https://gitlab.com/graphviz/graphviz/-/blob/master/rtest/test_tools.py#L52)?",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-10-20 00:02:37.433","2020-10-20 00:02:37.433",False,72975645,"Issue",4207231,False,False,False,1852,NULL
+322350385,NULL,"This is the funniest attempted cleanup I’ve seen in a long time. I’d have to guess malloc.h is older than whoever thought it was constructive to remove it. Is it from v7 Unix? Let’s rename stdio.h too, just because we can! The inconvenience is temporary...
+
+Obviously we will have to do this in some OSX Catalina and beyond specific way, but it’s a nice day so I’m going outside.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2020-04-12 00:01:22.168","2020-04-12 00:01:22.168",False,33187336,"Issue",4207231,False,False,False,1696,NULL
+347049752,NULL,"mentioned in issue #1710",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-05-22 00:05:16.5","2020-05-22 00:05:16.501",True,34871837,"Issue",4207231,False,False,False,1713,NULL
+859466567,NULL,"Actually I just realized unistd.h is already shimmed in windows/include/unistd.h. So given windows/include is in the include path during compilation on Windows, is there any platform for which `#include <unistd.h>` does not work within the Graphviz code base? The solution for the warning in the OP may just be to add an unconditional `#include <unistd.h>`.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2022-03-02 00:03:33.797","2022-03-02 00:03:33.797",False,103932125,"Issue",4207231,False,False,False,2204,NULL
+433859914,NULL,"mentioned in merge request !1629",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-10-21 00:02:32.724","2020-10-21 00:02:32.725",True,72539826,"Issue",4207231,False,False,False,1851,NULL
+531039020,NULL,"This is essentially what !1760 is currently trying to solve.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-03-17 00:01:54.668","2021-03-17 00:01:54.668",False,6912655,"Issue",4207231,False,False,False,205,NULL
+534234294,NULL,"For reference, Graphviz commit 95b51d5147dc02bf4c62a81b9999a74d8629f2c0 produces the following. This indeed looks incorrect.
+
+```
+<map id=""tree"" name=""tree"">
+<area shape=""rect"" id=""node1"" href=""a"" title=""&amp; &;"" alt="""" coords=""5,5,77,53""/>
+</map>
+```",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-03-21 00:06:43.112","2021-03-21 00:06:43.112",False,6913249,"Issue",4207231,False,False,False,797,NULL
+181981317,NULL,"It's a predecessor of cgraph. I think by now most or all of our programs have been moved to cgraph, and possibly it can be removed if someone can make sure the rest graphviz doesn't need it any more.",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2019-06-17 00:08:34.924","2019-06-17 00:08:34.924",False,21964553,"Issue",4207231,False,False,False,1549,NULL
+370574713,NULL,"changed title from **The Windows 'CMake' installer does not install {-all neato, gvpr, fdp and others-}s** to **The Windows 'CMake' installer does not install {+neato, gvpr, fdp and other+}s**",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-06-30 00:05:13.959","2020-06-30 00:05:13.961",True,52023846,"Issue",4207231,False,False,False,1753,NULL
+401746864,NULL,"I have no idea what's going on, but it seems that I managed to fix it anyway. I removed the braces and that seems to work for both Linux and Windows CMake, see https://gitlab.com/magjac/graphviz/-/pipelines/181760767. For MSBuild there's something else that goes wrong. I guess it has something to do with this:
+```
+find . -name '*.vcxproj' -exec grep -HnI yy {} \;
+./cmd/tools/gml2gv.vcxproj:76:sed ""s/yy/gml/g"" &lt; gmlscan-intermediate.c &gt; gmlscan.c
+./cmd/tools/gml2gv.vcxproj:79:sed ""s/yy/gml/g"" &lt; gmlparse-intermediate.h &gt; gmlparse.h
+./cmd/tools/gml2gv.vcxproj:80:sed ""s/yy/gml/g"" &lt; gmlparse-intermediate.c &gt; gmlparse.c
+./cmd/tools/gml2gv.vcxproj:105:sed ""s/yy/gml/g"" &lt; gmlscan-intermediate.c &gt; gmlscan.c
+./cmd/tools/gml2gv.vcxproj:108:sed ""s/yy/gml/g"" &lt; gmlparse-intermediate.h &gt; gmlparse.h
+./cmd/tools/gml2gv.vcxproj:109:sed ""s/yy/gml/g"" &lt; gmlparse-intermediate.c &gt; gmlparse.c
+./lib/expr/expr.vcxproj:68:sed ""s/yy/ex/g"" &lt; exparse-intermediate.c | sed ""s/YY/EX/g"" &gt; exparse.c
+./lib/expr/expr.vcxproj:69:sed ""s/yy/ex/g"" &lt; exparse-intermediate.h | sed ""s/YY/EX/g"" &gt; exparse.h
+./lib/expr/expr.vcxproj:86:sed ""s/yy/ex/g"" &lt; exparse-intermediate.c | sed ""s/YY/EX/g"" &gt; exparse.c
+./lib/expr/expr.vcxproj:87:sed ""s/yy/ex/g"" &lt; exparse-intermediate.h | sed ""s/YY/EX/g"" &gt; exparse.h
+./lib/gvc.vcxproj:76:sed ""s/yy/html/g"" &lt; common\htmlparse-intermediate.c &gt; common\htmlparse.c
+./lib/gvc.vcxproj:77:sed ""s/yy/html/g"" &lt; common\htmlparse-intermediate.h &gt; common\htmlparse.h
+./lib/gvc.vcxproj:111:sed ""s/yy/html/g"" &lt; common\htmlparse-intermediate.c &gt; common\htmlparse.c
+./lib/gvc.vcxproj:112:sed ""s/yy/html/g"" &lt; common\htmlparse-intermediate.h &gt; common\htmlparse.h
+```
+I can have a look at that later today",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-08-25 00:09:37.426","2020-08-25 00:01:57.177",False,70245071,"Issue",4207231,False,False,False,1806,NULL
+399579227,NULL,"mentioned in commit magjac/graphviz@a9ff9a42abc8a08ad535eaebbce14c606e270a1c",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-08-20 00:05:31.878","2020-08-20 00:05:31.88",True,70076787,"Issue",4207231,False,False,False,1800,NULL
+410373413,NULL,"changed the description",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-09-10 00:02:25.339","2020-09-10 00:02:25.341",True,70963426,"Issue",4207231,False,False,False,1820,NULL
+1048777363,NULL,"mentioned in commit ae8d4834546d11f98072dcc9310c3baca73ef849",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2022-08-03 00:07:20.3","2022-08-03 00:07:20.302",True,6913003,"Issue",4207231,False,False,False,552,NULL
+559770170,NULL,"Filing an issue and then immediately fixing it... You don’t mess around, do you? :)
+
+Some comments/questions:
+* !1925 is related to this issue, right? Please mention “#2057” in the commit message.
+* Do you have a reproducing test case for this? I.e. some C/C++ program you unsuccessfully tried to compile?
+* @markhnsn, @magjac, do you know why Saleem’s MRs don’t seem to be able to use Docker? Is this a buildkit issue?",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-04-25 00:09:21.419","2021-04-25 00:09:21.419",False,85894399,"Issue",4207231,False,False,False,2057,NULL
+505230297,NULL,"We don't support Windows 7 as it's EOL, but I suspect this is reproducible on Windows 10 too. The problem is likely that `_WIN32` is defined on MinGW but it also doesn't understand `__declspec` so it gets confused about the definitions in lib/cdt/cdt.h.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-02-09 00:02:29.178","2021-02-09 00:02:29.178",False,78712428,"Issue",4207231,False,False,False,1940,NULL
+466700090,NULL,"Is this fixed by !1686?",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-12-15 00:04:23.306","2020-12-15 00:04:23.306",False,76023226,"Issue",4207231,False,False,False,1907,NULL
+373626560,NULL,"Thanks for the report. Do you know of a way to reproduce this if we're not
+running noname-linux? i.e. do you have any tricks to let us repro this on
+ubuntu/debian/fedora somehow, or perhaps in a docker container?",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-07-04 00:08:25.168","2020-07-04 00:08:25.168",False,53903894,"Issue",4207231,False,False,False,1757,NULL
+806555459,NULL,"mentioned in issue #1934",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2022-01-11 00:06:20.877","2022-01-11 00:06:20.878",True,100403700,"Issue",4207231,False,False,False,2178,NULL
+99838230,NULL,"changed the description",NULL,"{""id"": 1536216, ""name"": ""Bernhard M. Wiedemann"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/bmwiedemann"", ""username"": ""bmwiedemann"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1536216/avatar.png""}","2018-09-08 00:00:49.878","2018-09-08 00:00:49.878",True,13999561,"Issue",4207231,False,False,False,1422,NULL
+631758489,NULL,"assigned to @magjac",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2021-07-21 00:02:38.045","2021-07-21 00:02:38.047",True,90592707,"Issue",4207231,False,False,False,2102,NULL
+131819148,NULL,"Thank you - do you have some way of testing this?",NULL,"{""id"": 1631868, ""name"": ""Stephen C. North"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/truenorth"", ""username"": ""truenorth"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1631868/avatar.png""}","2019-01-15 00:00:49.785","2019-01-15 00:00:49.785",False,17368046,"Issue",4207231,False,False,False,1477,NULL
+394700433,NULL,"Crikey!",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-08-12 00:06:44.186","2020-08-12 00:06:44.186",False,69745384,"Issue",4207231,False,False,False,1793,NULL
+354069936,NULL,"mentioned in merge request !1396",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-06-03 00:09:19.511","2020-06-03 00:09:19.513",True,34348282,"Issue",4207231,False,False,False,1708,NULL
+500010458,NULL,"False alarm. Seems I just needed to retry them a third time. I don't know why these tests are flaky, but I suspect we will have to solve this once and for all somewhere down the line.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-02-03 00:03:09.741","2021-02-03 00:03:09.741",False,78253445,"Issue",4207231,False,False,False,1934,NULL
+559976678,"DiscussionNote","I would actually do a bit more complex variant of this (and is what I meant with regards to ceremony about declarations).  On Linux, you can take advantage of this to use protected visibility, which disables symbol interpositioning which is enabled by default.  This avoids a small penalty by avoiding the PLT for the local symbols (though it may be problematic if you are relying on COPY relocations or if you are relying on certain behaviours with certain TLS models).  Additionally, the snippet that you have does not account for static libraries on Windows, which actually is a problem (you will encounter either warning 4216 or 4217 from link due to the incorrect use of DLL storage for a non-DLL object set).
+
+```c
+#if defined(_WIN32)
+# if defined(_DLL)
+#   if defined(gvc_EXPORTS)
+#     define GVC_API __declspec(dllexport)
+#   else
+#     define GVC_API __declspec(dllimport)
+#   endif
+# else
+#  define GVC_API
+# endif
+#elif defined(__ELF__)
+# if defined(gvc_EXPORTS)
+#   define GVC_API __attribute__((__visibility__(""default"")))
+# else
+#   if defined(__linux__)
+#     define GVC_API __attribute__((__visibility__(""protected"")))
+#   else
+#     define GVC_API __attribute__((__visibility__(""default"")))
+#   endif
+# endif
+#elif defined(__wasm__)
+# define GVC_API __attribute__((__visibility__(""default"")))
+#else /* assume MachO */
+# define GVC_API __attribute__((__visibility__(""default"")))
+#endif
+```
+
+The check for Linux is because Linux is the only OS that I know that has taken advantage of the protected visibility from ELF.  The BSDs do not support it.  The DLL storage case is not perfect, but near enough for a first approximation.  It currently is not correct for the PlayStation and  OS/2 at least off the top of my head, and I'd like to say AIX also (due to XCOFF).",NULL,"{""id"": 8753381, ""name"": ""Saleem Abdulrasool"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/abdulras"", ""username"": ""abdulras"", ""avatar_url"": ""https://secure.gravatar.com/avatar/da19a5d4e7742fcd8aacfbabb4c58cc0?s=80&d=identicon""}","2021-04-26 00:08:17.712","2021-04-26 00:02:12.472",False,85918930,"Issue",4207231,False,False,False,2058,NULL
+735235574,NULL,"Interesting. We would gain some abstractions. Possibly at the cost of
+having to choose a C++ subset(?).
+
+How much of the code is in C++ already? A tiny bit was my understanding.
+
+<details><summary>...</summary>
+
+On Wed, 17 Nov 2021 at 13:46, Matthew Fernandez (@smattr) < gitlab@mg.gitlab.com> wrote:
+
+> Matthew Fernandez <https://gitlab.com/smattr> created an issue: #2154
+> <https://gitlab.com/graphviz/graphviz/-/issues/2154>
+>
+> There are a few pieces of Graphviz that are written in C, but are not
+> usable without linking against libc++/libstdc++. E.g.
+> cmd/mingle/minglemain.c. It seems like nothing is gained from this being in
+> C.
+>
+> Should we consider porting some of this to C++? In the case of
+> minglemain.c for example, this would allow dropping the use of agxbufs
+> and just using std::ostringstream.
+>
+> —
+> Reply to this email directly or view it on GitLab
+> <https://gitlab.com/graphviz/graphviz/-/issues/2154>.
+> You're receiving this email because of your account on gitlab.com. If
+> you'd like to receive fewer emails, you can unsubscribe
+> <https://gitlab.com/-/sent_notifications/REDACTED/unsubscribe>
+> from this thread or adjust your notification settings.
+>
+
+</details>",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2021-11-17 00:06:53.613","2021-11-17 00:06:53.613",False,97453935,"Issue",4207231,False,False,False,2154,NULL
+616590683,NULL,"mentioned in commit c9fff396b5ee14e0ec575292815db028ce86d0ef",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2021-07-01 00:01:30.388","2021-07-01 00:01:30.39",True,72127502,"Issue",4207231,False,False,False,1846,NULL
+427632576,NULL,"mentioned in merge request !1613",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-10-10 00:03:48.667","2020-10-10 00:03:48.668",True,71065392,"Issue",4207231,False,False,False,1823,NULL
+638163051,NULL,"changed the description",NULL,"{""id"": 9406279, ""name"": ""yahuuu"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/yahuuu"", ""username"": ""yahuuu"", ""avatar_url"": ""https://secure.gravatar.com/avatar/e065d690a6f67d7f21c47f24ec7da16b?s=80&d=identicon""}","2021-07-29 00:02:49.71","2021-07-29 00:02:49.712",True,91057283,"Issue",4207231,False,False,False,2105,NULL
+432795044,NULL,"mentioned in commit magjac/graphviz@729d2f8a5d47d9780467769bedd33e816311ba0a",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2020-10-20 00:06:09.578","2020-10-20 00:06:09.581",True,73004311,"Issue",4207231,False,False,False,1854,NULL
+362981266,NULL,"mentioned in issue #240",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-06-17 00:00:47.383","2020-06-17 00:00:47.385",True,6912529,"Issue",4207231,False,False,False,56,NULL
+811897773,NULL,"changed title from **lneato with any argument e{-c-}xept -? crashes** to **lneato with any argument ex{+c+}ept -? crashes**",NULL,"{""id"": 275623, ""name"": ""Magnus Jacobsson"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/magjac"", ""username"": ""magjac"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/275623/avatar.png""}","2022-01-16 00:04:26.257","2022-01-16 00:04:26.259",True,100726871,"Issue",4207231,False,False,False,2180,NULL
+442842864,NULL,"Yep sounds worth doing particularly for security sensitive code like
+escaping",NULL,"{""id"": 5985348, ""name"": ""Mark Hansen"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/markhnsn"", ""username"": ""markhnsn"", ""avatar_url"": ""https://secure.gravatar.com/avatar/97c7cb70d1f6c24b47aa9ad809cb2c25?s=80&d=identicon""}","2020-11-06 00:00:58.338","2020-11-06 00:00:58.338",False,73951871,"Issue",4207231,False,False,False,1868,NULL
+378791552,NULL,"mentioned in merge request !1468",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2020-07-14 00:05:24.157","2020-07-14 00:05:24.158",True,21573273,"Issue",4207231,False,False,False,1544,NULL
+1248165117,NULL,"@steveroush is this still relevant? [Wikipedia describes VML](https://en.wikipedia.org/wiki/Vector_Markup_Language) as:
+
+> an obsolete XML-based file format for two-dimensional vector graphics. It was specified in Part 4 of the Office Open XML standards ISO/IEC 29500 and ECMA-376. According to the specification, VML is a deprecated format included in Office Open XML for legacy reasons only.",NULL,"{""id"": 1531904, ""name"": ""Matthew Fernandez"", ""state"": ""active"", ""web_url"": ""https://gitlab.com/smattr"", ""username"": ""smattr"", ""avatar_url"": ""https://gitlab.com/uploads/-/system/user/avatar/1531904/avatar.png""}","2023-01-21 00:03:40.161","2023-01-21 00:03:40.161",False,6913251,"Issue",4207231,False,False,False,799,NULL
